@@ -1,0 +1,2 @@
+# Templates
+Training Azure Recovery
